@@ -32,3 +32,50 @@ footer{
    height: 200px;
 }
 }
+#nom{
+   border-color:black;
+   height: 30px;
+   
+}
+#prenom{
+   border-color:black;
+   height: 30px;
+}
+#adresse{
+   border-color:black;
+   height: 30px;
+}
+#ville{
+   border-color:black;
+   height: 30px;
+}
+#code{
+   border-color:black;
+   height: 30px;
+}
+#adressemail{
+   border-color:black;
+   height: 30px;
+}
+#numero{
+   border-color:black;
+   height: 30px;
+}
+#num{
+   border-color:black;
+   height: 30px;
+   margin-top: 10px;
+}
+#date{
+   border-color:black;
+   height: 30px;
+   margin-top: 10px;
+}
+#Cvv{
+   border-color:black;
+   height: 30px;
+   margin-top: 10px;
+}
+label{
+   margin-top: -10px;
+}
