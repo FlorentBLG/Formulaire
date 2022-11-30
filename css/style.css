@@ -23,13 +23,16 @@ body{
 }
 footer{
    background-image:url(../image/logo\ paiement.png);
-   width: 45%;
+   width: 47%;
    height: 200px;
+    background-size: contain;
+   background-repeat: no-repeat;
 
 }
 @media only screen and (max-width: 768px){
 footer{
    height: 200px;
+    width: 200px;
 }
 }
 #nom{
